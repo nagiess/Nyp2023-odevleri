@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Personeloluşturma\personel bilgileri\personelbilgileri\bin\Debug\personelbilgileri.exe.config
+C:\Users\Administrator\Desktop\Personeloluşturma\personel bilgileri\personelbilgileri\bin\Debug\personelbilgileri.exe
+C:\Users\Administrator\Desktop\Personeloluşturma\personel bilgileri\personelbilgileri\bin\Debug\personelbilgileri.pdb
+C:\Users\Administrator\Desktop\Personeloluşturma\personel bilgileri\personelbilgileri\obj\Debug\personelbilgileri.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Personeloluşturma\personel bilgileri\personelbilgileri\obj\Debug\personelbilgileri.Form1.resources
+C:\Users\Administrator\Desktop\Personeloluşturma\personel bilgileri\personelbilgileri\obj\Debug\personelbilgileri.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Personeloluşturma\personel bilgileri\personelbilgileri\obj\Debug\personelbilgileri.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Personeloluşturma\personel bilgileri\personelbilgileri\obj\Debug\personelbilgileri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Personeloluşturma\personel bilgileri\personelbilgileri\obj\Debug\personelbilgileri.exe
+C:\Users\Administrator\Desktop\Personeloluşturma\personel bilgileri\personelbilgileri\obj\Debug\personelbilgileri.pdb
